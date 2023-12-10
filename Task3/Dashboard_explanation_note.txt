@@ -1,7 +1,0 @@
-* The Dashboard is made out of the cleaned data of the "book dataset" given. It has a total of 3 graphs Donut Chart, Stacked Bar Chart and a Line Chart.
-* Donut Chart:
-	This chart gives a brief idea about each and every author and sum of their average ratings on all the books published by them. Author's value can be calculated from this.
-* Stacked Bar Chart:
-	By this graph the viewer can know total number of pages an author has written (All books are taken into consideration). This can be helpful to know how experienced the author is.
-* Line Chart:
-	This chart takes into account the publisher, title and the "ratings_count" detail. A publisher's sum of "ratings_count" on all the books, published can be known.
